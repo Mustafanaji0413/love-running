@@ -64,7 +64,7 @@ color: #252525;
     width: 100%;
     overflow: hidden;
 
-    position: relative;
+    position: relative; 
 }
 
 #cover-text, #cover-text h2 {
