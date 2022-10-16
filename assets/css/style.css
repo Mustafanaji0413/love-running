@@ -129,7 +129,6 @@ color: #252525;
         padding-top: 30px;
         width:33%;
         float: right;
-        background-color: silver;
     }
 
     #center-about {
@@ -141,7 +140,7 @@ color: #252525;
     hr {
         border-top: 1px solid #3a3a3a;
         width: 100%;
-        margin: 5px 0;
+        margin: 5px 0; 
     }
     
     .left-about-heading {
@@ -152,4 +151,19 @@ color: #252525;
         margin-bottom: 50px;
     }
 
+    .right-about-heading {
+        width: 60%;
+        float: left;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 50px;
+    }
 
+    .right-about-heading h2 {
+        text-align: right;
+
+    }
+
+    .right-about-heading p {
+        text-align: right;
+    }
